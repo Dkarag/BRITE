@@ -257,7 +257,7 @@
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">BRITE</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">16</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">17</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">BRITE</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2015 </Property>
