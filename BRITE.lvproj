@@ -265,6 +265,47 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{B2FAD5CA-A1B8-41F7-95B2-CEC34322B5CF}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Brite.exe</Property>
 			</Item>
+			<Item Name="Brite v2" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{1FA3A57A-B7D0-4A8B-AEB1-F2440612342C}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{EE6AE33E-A70F-46C1-A958-090C45B8BE7B}</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{29ED2672-D9E5-499B-8FB2-6A5863E39409}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Brite v2</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Brite v2</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{2951E239-B34C-471C-98DA-712A3E68CEB8}</Property>
+				<Property Name="Destination[0].destName" Type="Str">Brite.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Brite v2/Brite.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Brite v2/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/favicon.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{426D7F30-7546-4785-BF40-C03ADCDEB909}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref"></Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/VIs/intro.vi</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[2].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Brite v2</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">17</Property>
+				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
+				<Property Name="TgtF_internalName" Type="Str">Brite v2</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2015 </Property>
+				<Property Name="TgtF_productName" Type="Str">Brite v2</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{B922BDEC-9168-4CE5-8F17-F72D3E16F451}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Brite.exe</Property>
+			</Item>
 		</Item>
 	</Item>
 </Project>
